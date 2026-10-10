@@ -23,12 +23,12 @@ and endless Stack Overflow tabs into solutions… eventually.
 
 ## 💻 Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,bootstrap,react,redux,tailwind,django,flask,nodejs,c,postgres,mongodb,mysql,git,docker,kubernetes,linux&perline=7)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,python,nodejs,html,css,bootstrap,react,redux,tailwind,django,flask,c,postgres,mongodb,mysql,git,docker,kubernetes,linux&perline=7)](https://skillicons.dev)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Murithi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murithi-gatobu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![Murithi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murithi-caleb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
 
 ---
 
