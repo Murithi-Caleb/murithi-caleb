@@ -11,7 +11,7 @@ and endless Stack Overflow tabs into solutions… eventually.
 
 ## 💫 About Me  
 🧠 Computer Science Student @ Dedan Kimathi University of Technology (DeKUT)  
-🌐 Proud member of the **ALX Software Engineering** community  
+🌐 Proud member of the **Python and Javascript Software Engineering** community  
 🚀 Passionate about Full-Stack Web Development & DevOps  
 🤓 Lifelong learner — always tinkering, building, breaking, and fixing  
 🛠️ Git is my sidekick · Ctrl + Z is my emergency escape hatch  
@@ -23,7 +23,7 @@ and endless Stack Overflow tabs into solutions… eventually.
 
 ## 💻 Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,nodejs,html,css,bootstrap,react,redux,tailwind,django,flask,c,postgres,mongodb,mysql,git,docker,kubernetes,linux&perline=7)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,python,nodejs,html,css,bootstrap,react,tailwind,django,c,mysql,git,docker,linux&perline=7)](https://skillicons.dev)  
 
 ---
 
